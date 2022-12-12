@@ -3,11 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Yumi, a full-time full-stack developer!</div>  
+### <div align="center">I'm Yumi,a full-stack developer!</div>  
   
 
-- 🌱 I’m currently learning Ruby on Rails, Javascropt, HTML/CSS  
-  
+- 🌱 Web development experience in Ruby on Rails, Javascript, HTML/CSS  
+- 🚙 Graduated from Le Wagon's Web Development bootcamp
+- 👩🏻‍💻Curently looking for a open position as an full-stack engineer
+
 
 <br/>  
 
